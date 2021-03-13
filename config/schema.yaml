@@ -1,0 +1,3 @@
+types:
+  OfferItemCondition: # The generator will automatically guess that OfferItemCondition is subclass of Enum
+    properties: {} # Remove all properties of the parent class
